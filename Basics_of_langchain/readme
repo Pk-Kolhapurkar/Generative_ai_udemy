@@ -1,3 +1,6 @@
-load data
-split data into chunks
-
+openai
+ollama
+data ingestion
+data transform (recursive, character,HTML, recursive json splitter)
+Embedding(openai,ollama,hugging face)
+vector store (chromaDB,faiss)
